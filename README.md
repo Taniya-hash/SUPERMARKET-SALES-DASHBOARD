@@ -204,10 +204,14 @@ The goal of this dashboard is to transform raw supermarket sales data into actio
 
 ---
 
-<div align="center">
+Contact Me
 
-## ⭐ If you like this project, give it a star!
+👤 Name: Taniya Kaushal
 
-Made with ❤️ using Power BI
+📧 Email: taniyakaushal513@gmail.com
 
-</div>
+💼 LinkedIn:www.linkedin.com/in/taniya-k-826856274
+
+💻 GitHub:https://github.com/Taniya-a11y/SUPERMARKET-SALES-DASHBOARD
+
+
